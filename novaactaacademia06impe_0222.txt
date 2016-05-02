@@ -1,0 +1,49 @@
+Tan. ΙΙ.
+Fi g. 5.
+
+Fig. 6.
+
+ 
+
+ 
+
+.-..... (88) -.-.-.
+
+propterea quod eadem solutio ex primis Geometriae elemen-
+tis deduci potuisset.
+
+Solutio synthetica
+eiusdem problematis·
+
+ᾗ. 23. Cum circulus centro C radio C N Ξ C M
+descriptus hanc habeat proprietatem, vt omnes normales ZC
+ad centrum C tendant, ideoque inter se fint aequales , mani-
+festum est, fi plures huiusmodi circuli ad planum tabulae per-
+pendiculariter constituantur, in fingulis omnes normales aequa-
+les fore. Tantum igitur superest, vt circuli illi continua se-
+tie ita disponantur, vt normales illae CZ etiam ad circu·-
+los proxime contiguos normales fint, id quod euenit, fi
+
+centrum C in dii-efiione Cc, ad diametrum MN normali,
+super plano promoueatur.
+
+ξ. 24. Huic autem conditioni manifesto satisfiet, fi
+semicirculus ille MZN, ad planum tabulae perpendiculariter
+erec'tiis, ita promoueatur‘, vt eius centrum super curua quacun·-
+que EUF protrahatur, ita vt eius diameter MN ad illam
+curuam E UF perpetuo teneat fit'um normalem , fiue vt reeta
+M N vbique curuam in Uad angulos ret‘ios secet. Hoc enim
+modo peripheria istius circuli talem superficiem describet, cu-
+ius omnes normales, quae perpetuo ad ipfiim curnam EUF
+dirigentur, fint inter se aequales. Euidens autem est hanc
+
+construtstionem cum praecedente solutione analytica prorsus
+conuenire.
+
+ξ. 25. lam obseruauimus curuam istam directricem
+
+E U F penitus ab arbitrio nostro pendere, atque adeo ex plu·
+ribus partibus pro lubitu componi polle, quin etiam, Vbicunque
+lubucrit, terminari poterit. lmmo etia mloco huius curuae vni-
+cum
+

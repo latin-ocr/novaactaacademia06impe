@@ -1,0 +1,56 @@
+Ξ (13) -—-
+
+ 
+
+a forma‚ qua summam expressimus, sed potitis in ipsa natura
+summationis effe fundatam, id quod etiam de sequente Proble-
+
+mate 'valebit.
+Problema.
+ς. 18. Si cognita fuerit summa seriei, cuius terminus ge·
+neralis :z X , suncho quaecunque indicis x , inuenire summam se-
+riei cuius terminus generalis Ξ s X ἂ x·-
+
+solutio,
+Cum igitur terminus generalis seriei pro'pofitne fit ΣΧ,
+eius summa supra cognita habetur, eritque vt ante
+
+ExzsX3x÷3X÷ss.2³-x—-⁸-.?³-l‘—1- ⁰ ,ils—etc..
+
+1.2.3 dx 1...5 dx³ 1...7 off
+
+ 
+
+Hinc igitur deducimils summam quaefitam EsXBx, fi in illa
+expreffione loco X vbique scribamus sXbx, quo fazsto re-
+periemus :
+
+zsxaxqaxsxaxfflsxaxafffix- Β Q
+
+1...5 ox2
+
+ 
+
+ 
+
+-i--Lf-7. {C}— etc.
+
+quae series manifesto ex issa formatur, fi ea duc‘ta in &x integretur,
+ita vt fit EsXszfbeX„ Verum hic duplex rec‘tifi-
+catio accedere debet‚·aitera vt summa quaefita euanescat pofi-
+to x: 0 ‚ altera vero vt pofito x: 1 summa exhibeat ip-
+sum terminum primum seriei, qui erit valor formulae sX Oxy,
+sumto x: 1 ‚ quamobrem vera expressio pro summa quae-
+fita erit
+
+EsXszsbxzx-ae-C4-Da0,
+vbi ambas constantes C et D per memoratas conditiones de·
+finire oportet.
+
+Corollarium.
+
+ᾖ. 19. Ἡίηε igitur patet signum summationis Σ fimffi
+
+indole gaudere, qua fignum integrationis, atque adeo haec figna
+Β 3 inter
+

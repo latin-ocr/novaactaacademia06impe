@@ -1,0 +1,45 @@
+ὅσ H'ISTOIRE.
+
+Quelque difficile qu’il puisse paroitre de trouver une
+telle formule donee de quatre multiplicateurs qui la rendent
+inffigrable, l'Auteur en trouve une facilement‚ & se voit par 15,
+en etat d'affigner les coordonnees des deux courbes.
+
+La methode que l’Auteur a employee pour resoudre ce
+Probleme assez difficile en apparence‚ est d’autant plus remar-
+quable‚ qu'elle &erenei-:1 tel nombre de courbes satisfaisantes
+au Probleme qu’on voudra. Car soyent les amp1itudes d’un
+nombre indefini de lignes courbes αφ, βφ, ὙΦ, δΦ, &c-
+on n⁷a qu'it prendre
+
+ὃςΞυῦΦ-ὲ-ᾸξζζΪ-ἱ-ΒόἂῷΪ-ἱ-εθᾶἑξῆ-ὅτε.
+
+v etant une fonction quelconque algebrique de Φ, cette for·
+mule sera douee de la propriete d'admettre l’integration‚ soit
+qu'on la multiplie par le finus ‚ ou par le cosmus de chaque
+amplitude. Quant aux coefficiens A, B, C, ἃς. le premier
+est la somme des frztffions ᾗ, ‘53²⁷’ 53, &a le second'est la
+
+somme des produits de deux ὲ deux, le troifieme la somme
+des produits des memes fr21st10115‚ prises trois 31 trois, & ainfi
+de suite. Or ὃς multiplie par chacun des multiplicateurs men-
+tionnes‚ & integre fournit tant les absciffes que les ordonnees
+de toutes les courbes qu'on demande.
+
+ 
+
+ 
+
+ 
+
+VI.
+
+De methodo tangentium inuersa ad Theoriam
+Solidorum translata.
+
+Ane‘tore. L. Eulero, pag. 77.
+La methode inverse des tangentes qu'on met cn uffige
+
+pour trouver des lignes courbes donees de certaines proprie-
+tes
+

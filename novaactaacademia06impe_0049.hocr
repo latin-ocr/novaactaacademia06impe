@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaacademia06impe_0049.png"; bbox 0 0 2007 2702; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 233 865 1571 1029">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 233 865 1575 1029">
+     <span class='ocr_line' id='line_1_1' title="bbox 233 865 1571 1029; baseline 0.007 -63"><span class='ocrx_word' id='word_1_1' title='bbox 233 865 1571 1029; x_wconf 21' lang='lat' dir='ltr'><strong>SUPP&#39;LEMENT.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 423 1126 1352 1259">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 423 1126 1352 1259">
+     <span class='ocr_line' id='line_1_2' title="bbox 423 1126 1352 1259; baseline -0.004 0"><span class='ocrx_word' id='word_1_2' title='bbox 423 1126 1352 1259; x_wconf 83' lang='lat' dir='ltr'><strong>MEMOIRES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 183 1327 1540 1595">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 183 1327 1540 1595">
+     <span class='ocr_line' id='line_1_3' title="bbox 183 1327 1540 1396; baseline 0 -17"><span class='ocrx_word' id='word_1_3' title='bbox 183 1333 186 1337; x_wconf 77' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 238 1329 492 1395; x_wconf 59' lang='lat' dir='ltr'>prbfi’ntc‘s</span> <span class='ocrx_word' id='word_1_5' title='bbox 531 1329 562 1382; x_wconf 75' lang='grc' dir='ltr'>ιὶ</span> <span class='ocrx_word' id='word_1_6' title='bbox 604 1329 891 1384; x_wconf 67' lang='grc' dir='ltr'>[Ἀεῑιιῖέηιίε</span> <span class='ocrx_word' id='word_1_7' title='bbox 921 1330 1180 1396; x_wconf 71' lang='grc' dir='ltr'><em>Ιηιρένίιῑίε</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1212 1330 1294 1382; x_wconf 85' lang='lat' dir='ltr'>des</span> <span class='ocrx_word' id='word_1_9' title='bbox 1326 1327 1540 1382; x_wconf 78' lang='lat' dir='ltr'><em>Sciences</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 576 1450 1200 1504; baseline -0.002 -13"><span class='ocrx_word' id='word_1_10' title='bbox 576 1463 651 1504; x_wconf 82' lang='lat' dir='ltr'>pat</span> <span class='ocrx_word' id='word_1_11' title='bbox 685 1451 757 1492; x_wconf 87' lang='lat' dir='ltr'>des</span> <span class='ocrx_word' id='word_1_12' title='bbox 796 1450 951 1495; x_wconf 78' lang='lat' dir='ltr'>Savans</span> <span class='ocrx_word' id='word_1_13' title='bbox 988 1450 1200 1504; x_wconf 57' lang='lat' dir='ltr'><strong>&amp;trangers</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 875 1563 910 1595; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 875 1563 910 1595; x_wconf 71' lang='grc' dir='ltr'>ὃ(</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 457 1649 1316 1717">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 457 1649 1316 1717">
+     <span class='ocr_line' id='line_1_6' title="bbox 457 1649 1316 1717; baseline 0.003 -16"><span class='ocrx_word' id='word_1_15' title='bbox 457 1651 730 1717; x_wconf 73' lang='lat' dir='ltr'>approuve&#39;:s</span> <span class='ocrx_word' id='word_1_16' title='bbox 764 1654 879 1706; x_wconf 81' lang='lat' dir='ltr'>dans</span> <span class='ocrx_word' id='word_1_17' title='bbox 911 1653 981 1705; x_wconf 83' lang='lat' dir='ltr'>ses</span> <span class='ocrx_word' id='word_1_18' title='bbox 1015 1649 1316 1705; x_wconf 69' lang='lat' dir='ltr'>Affemble&#39;:e8.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

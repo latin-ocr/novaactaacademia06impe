@@ -1,0 +1,45 @@
+········· (91>·········
+
+ 
+
+ 
+
+ita 'vt iam x et y per binas variabiles Φ et v exprimantur 7
+dum tertia coordinata z per solam v definitur.
+
+ᾗ. 32. Iam pariter, vt ante fecimus, loco variabilis
+Φ et quantitatum independentiu'm (l) et s<D ὂΦ introducamus
+quantitates t et u, ponendo
+
+tzcosscbsOEMD—-fflfimsp,
+
+uzfin.<1>stI>D<D—{-(Dcoss<D‚
+vnde cum sequatur, vt supra ostendimus, tang.<D:—}{, an-
+gulus Φ iam per t et u dabitur3 vnde nascuntur hae formulae:
+
+x=t÷vcofi<1> etyzu-ff—vfin.<1>.
+
+§. 33. Ad has formulas construendas describatur, pror· Tab. 11.
+sus vt supra, super axe OA, curua quaecunque pro lubitu 1³39·
+EUF‚ fiue continua, fiue discontinua ‚ cuius coordinatae fint
+O T Ξ t et TU Ξ u ‚ atque angulus T U F aequalis erit
+angulo nostro (D, vnde fi ad hanc curuam producatur norma-
+lis SU, erit angulus TUSch—9o0. Iam in normali
+SU producta capiatur interuallum UV Ξ v, et demisso ex V
+ad axem OA perpendiculo V R X, ad idque normali UR ‚
+quia angulus UVX:<1>—900, in triangulo VUR habe-
+bimus :
+
+Uszfin.(<D—900)::—vcos.(1)‚
+Vszcoss(<D—-9o⁰): ‘ofin-(D,
+
+ex quibus colligitur x: O T — UR et y: UT -1- V R .,
+ficque patet fore x Ξ Ο X et y z: X V; vnde fingula puncta
+rectae U V praebent binas coordinatas in plano tabulae sum-
+tas x et y.
+
+§. 34. Quodsi ergo ex punito V ad planum tabulae
+
+normaliter erigatur resta VZ: z ‚ ita a v pendens , vt fit
+M 2 v z:
+

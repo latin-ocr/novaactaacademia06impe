@@ -1,0 +1,38 @@
+HISTO-I'RE. 79
+
+CLASSE DE MATHEMATIQUE,
+
+Ι.
+De singulari ratione differentiandi et integrandi
+quae in summis serierum occurrit.
+
+Auetore L. Eulero, pag. 3.
+
+Fn regardant comme connue la somme de 13, serie d'une
+-J puissance quelconqne n des nombres naturels‚ savoir:
+
+Exnz1⁷³÷2n÷3n÷4n .. , , , x⁷²
+on trouve 13 somme de 13 serie d'une puiffance plus elevee
+d'un degre, 2x⁷²÷¹., en premant Pintegrale de 13 premiere
+multipliee par bx δε par l'exposant de la puiffance dont on
+demande la somme de la serie3 pourvu toutefois que l’in-
+tegrale se prenne de maniere que 13 somme evanouiffe en met-
+tant x':0‚ & qu'on ajoute ἐι l'integrale un dernier terme
+de la forme ccx <Sc tel que cette meme somme deviennc &gale
+3 Punite, en mettant x Ξ 1.
+
+De la meme muniere, fi l⁷on regarde comme connue
+la somme de 13 serie de 13 (n-†- 1)⁷⁷²⁶' puifl'ance des nombres
+naturels‚ savoir:
+
+an÷12 1n†¹—†—2⁷²'4’¹-1}- 3n÷1÷ - - - - xn-kr’
+on trouve 13 somme de la serie des memes nombres eleves
+ἐι une puiffance moins elevee d’un degffi, Σχη, en divisant la
+di'fferentielle de 13 premiere, zxfflffl, par &x δε par l'expo-
+sant de 13 puiffance donnee n—}— 1, pourvu qu³0n omette tous
+les termes constansv qui pom-soient provenit dc la differentia-
+tion‚ parceque 121 somme cherchee doit sevanoun· en met--
+
+tant x z 0.
+Voicfl
+

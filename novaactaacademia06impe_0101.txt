@@ -1,0 +1,37 @@
+H1s‘r01RE. εγ
+
+tes par rapport aux Tangentes, Soutangentes‚ Normaks, Sou-
+normales, ou¹ autres lignes semblables determinees par le rap-
+port des differentielles des coordon'nees & de l’arc dela cour-
+be, n⁷a pas peu contribue ἐι l’avancement tant de la Geome-
+trie que de l‘Analyse. Μ. Euler se sert ici d'une methodo
+semblable pour determinet des surfaces douees de cei-taines
+proprietes par'rapport ἐι· ces memes lignes. Tous les Proble-
+mes de ce genre se reduisent εὶ trouver quelle fonction de
+deux variables x &y doive etre une troifieme variable z, pour
+qu’une rcertaine propriete ., ou relation entre les differentielles
+de ces quantites, puiffe avoir lieu. L’idee est heureufe &me-
+rite d’autant plus l'attention des Geometres‚ que son develop-
+pement conduit aux fonc‘tions ἐι deux variables‚ cest-&wire ἐι
+une branche de l'Analyle entierement differente de l’Analyse
+ordinaire, Sc dont 2⁸1 peine les premiers fondemens sont jettes.
+ce nouveau genre de calcul ne peut donc que gagnei· en per-
+fection par l’application‘ de ses principes ἐι des Problemes de
+la nature de ceux que Μ. Euler truite dans ce Me'moire.
+
+Le premier Probleme dont il s'occupe est de construi-
+te, sur un plan donne, un solide tel que fi de chaque point
+de sa surface ou erige des lignes perpendiculaires :1 la sui-face
+ἃ terminees par le plan donne, tontes ces lignes soyent ega—
+les,entr'elles; Probleme analogue ἰ] celui, ou, par la methode
+ordinaire inverse des tangentes, on cherche une ligne courbe
+=dont toutes les Nor-males soyent egales. ‘11 est evident qu'un
+Pal-:illelepipede restangle satisfuit aux conditions du Prmble·
+me, auffi bien qu’un Hemisphere & un demi-cylindre. Mais
+outre les corps que nous venons de nommer7 il y aura une
+infinite d'autres qui satisseront egalen‘ent ἐι ces conditions ἃ
+qui doivent tous etse compris dans la solution generale qu’on
+exige.
+
+Dans
+

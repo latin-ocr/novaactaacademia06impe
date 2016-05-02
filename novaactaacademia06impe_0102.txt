@@ -1,0 +1,37 @@
+„ HISTOIRE‚
+
+Dans la premiere solution que l’Auteur donne, & qui
+est analyfique, on decouvre sans peine le carattere principa!
+de tous les Problemes qui demandent l'integration de fond’cions
+ἐι deux variables .‚ savoir que cette integration fait entrer dans
+le cancul, au lieu des constantes amenees par les integrations
+ordinaires‚ une fonetion arbitralire5 laquelle, comme on voit dans
+ce Probleme‚ est representee par une ligne courbe‚ tiree arbitral-
+rement, discontinue rueme, δε comprise sous aucune equation,
+algebrique‚ verite qui devient· d’autant plus evidente, que la
+solution synthetique de ce Probleme que M. Euler paroit avoir
+choifi ὲ deffein ., conduit aux memes resultats: Car elle fait
+voir qu³un corps engendre par le mouvement d'un demicercle infi-
+stant verticalement au plan donne, & mene le long d’une ligne
+courbe quelconque, continue, ou ‹fliscontinue7 satisfait aux condi-
+tions du Probleme; δε c'est cette meme ligne qui est repre-
+sentee par lu fonftion arbitraire introduite par l⁷integ⁶ration de
+la fonc‘iion ἐι deux vari-ables .‚ a laquelle inmaduit la solution
+analytique du Probleme. C'est auffi dans cette circonstance
+que reside proprement la generalite de la solution, quoique
+pour cela le Probleme ne [oit pls indetermine., comme quel·
+ques Geometles ont cru que cetoit le 018 de tous les Proble-
+rues qui conduisent ὰ des fonffions arbitraires.
+
+La solution de ce Proble-mc, auffi bien que du Proble-'
+me suivant plus general, ou l'on demando des solides dont les
+Normales dans chaque point soyent dans un meme rapport don-
+ne avec les (levations de chaque point uu deffus duplan don-
+ne7 la solution, dis-je, de l'un Ex· l'autre de ces deux Proble-
+mes pnroit tres propre 2'1 confirmer la The'orie de l⁷Aureursut
+les fonctions urbitruires, dont radmiffibilite a ete rcvoquee en
+doute par quelques Ceomerroe du premier fang. La solution
+{ymbe-tique de ce second Probleme conduit auffi ἐι des corps
+
+cn-
+

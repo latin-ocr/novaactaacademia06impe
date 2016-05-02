@@ -1,0 +1,50 @@
+ 
+
+ 
+
+(84)
+
+Hoc igitur modo per duas variabiles Φ et z ambas coordina-
+tas x et y ita determinauimus, vt vtraque fit certa funstio
+binarum variabilium z et Φ. Sumtis enim pro lubitu tam Φ
+quam z, inde valores ipsarum x ety affignari pot-‘runt7 qui-
+bus inuentis ‚omnia superficiei punfta erunt determinata.
+
+ 
+
+ 
+
+ᾗ. 15. Solutio autem haec multo latius patet qnam
+vulgo videri queat, pfopterea quod loco <D non solum omnes
+funffiones ipsius Φ, tarn algebraicae quam transtcndentes‚ affu-
+mi possunt, sed etiam adeo funciiones discontinuae , quas per·
+nullas formulas analyticas exprimere licet, non excluduntur,
+Scilicet loc-0 curuae illius oq lineam quamcunque, libero ma·
+nus dudiu descriptam, assumere iicet, etiamst sub nulla acqua-
+tione analytica comprehendi queat3 tum enim pofita absciii‘a
+op Ξ Φ, applicata respondens pq dabit functionem (D et ipsa·
+area opq suppeditat formulam [(1) ὂΦ, ex quibus deinceps
+ipsa superficies'problemati satisfaciens construi poterit.> id quod
+ergo infinities infinitis modis praestari poffe manifestum est.
+
+ᾗ. 16. Quo autem hacc ad praxin propius accommo-
+dentur, loco anguli Φ eiusque funftionis (Ι), duas alias varia-
+biles t ct u, quarum altera alterius quoque fit fundio quac-
+cunque 7 in calculum introduci poterunt. Hunc in finem sta-
+
+tuamus t
+cos. (Dsd) D Φ — (Ι) sm. Φ :t ct
+
+fin. CDJG) ἲ) Φ -ξ-(Ι) cos. Φ Ξ ιι ,
+vt expreiiioncs inucrlltc enudant :
+
+x Ξ ί — cos. Φ Js (a a —z z) ct
+
+,γΞῐι-ΠιιΦῑἏζαα-«εω,
+
+vbi nutem necesse cst vt tam (in. Φ quam cos. Φ pei· nouas
+litteras t ct u exprimantur„ fi-quidcm quantitas Φ penitus ex
+
+calculo extrudi debct; quod quidem molestifflmum calculum
+sequ}-
+

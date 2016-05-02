@@ -1,0 +1,44 @@
+·······‘(119) =
+
+ 
+
+vata hac lege focile erit frafflones partiales producere quous-
+que libuerit, et summae serierum hoc modo commodius de
+
+tegi posse videntur.
+
+Inanem operam fasturus essem, fi summationes has vl-
+terius producere vellem3 minime tamen praetereundum effe
+videtur similem in modum series potestatum numerorum im-
+porium alternis fignis affec‘tarum summati posse. Sit series sum-
+menda in genere
+
+1—3n-f-5n—-7n—f-9n—11n—-l-etc- ⁷
+in qua, fi ponatur n: 1, prodibit series, cuius summa quae-
+renda est
+
+1—34-5—7-1-9—-11-1-13— etc.
+⁴Statuatui· :
+s: 1 -—- gxx÷5x⁴—7x⁶÷9x⁸—- xxx-¹⁰4· etc.
+Ducendo in ὂ x et sumendo integrali habebimus:
+sshxzx—x³÷.r⁵——x⁷÷x⁹—x¹¹÷ etc.
+
+ 
+
+ 
+
+fiue
+ss bx z x (1 -xx—4-x4--x⁶-÷-x⁸--x¹0—ff— etc.) Σ 1÷xxx .
+Differentiando igitur et per bx diuidendo reperitur 5:511272323
+ac pofito x z: 1, summa seriei quaesitae prodit Ξ ο.
+Casus Π. quo est n: 2 et series summanda
+1 —3²÷5²—- 72-1-92— 112-—15- etc.
+Ponamus
+sss: 1 —32xx÷5² x⁴—7²x⁵—÷-9²x⁸—- 11² ατη-μείς.
+
+Hinc
+sssbx Ξ ὃ x - 3²xx3x÷5²x⁴3x==7²x⁶dx÷9²x⁸3x—- etc.
+ac
+ssffbx z x(1 —3xx -ε- 5x⁴— 7x⁶÷ 9³³⁸:- 11 x¹⁰÷ etc.)
+Est
+

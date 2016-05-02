@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaacademia06impe_0496.png"; bbox 0 0 2393 2081; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1080 87 1946 134">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1080 87 1946 134">
+     <span class='ocr_line' id='line_1_1' title="bbox 1080 87 1946 134; baseline -0.017 -5"><span class='ocrx_word' id='word_1_1' title='bbox 1080 106 1172 129; x_wconf 62' lang='lat' dir='ltr'><em>,Vara</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1184 104 1269 127; x_wconf 62' lang='lat' dir='ltr'><em>„dcta</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1281 97 1382 124; x_wconf 63' lang='lat' dir='ltr'><em>Acczd-</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1398 97 1468 134; x_wconf 57' lang='lat' dir='ltr'><em>lnqu</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1483 94 1533 121; x_wconf 56' lang='lat' dir='ltr'><em>sc.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1548 93 1660 132; x_wconf 52' lang='lat' dir='ltr'><em>Feb-gp-</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1678 93 1749 118; x_wconf 54' lang='lat' dir='ltr'><em>Dm&amp;</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1765 91 1799 116; x_wconf 73' lang='lat'><em>71</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1818 87 1880 116; x_wconf 75' lang='grc' dir='ltr'><em>Ϊὶτό.</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1894 90 1946 115; x_wconf 69' lang='lat' dir='ltr'><em>JV</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 527 186 1911 1994">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 527 186 1911 1994">
+     <span class='ocr_line' id='line_1_2' title="bbox 527 186 1911 1994; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 527 186 1911 1994; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2196 966 2209 1604">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2196 966 2209 1604">
+     <span class='ocr_line' id='line_1_3' title="bbox 2196 966 2209 1604; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 2196 966 2209 1604; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2190 966 2211 1988">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2190 966 2211 1988">
+     <span class='ocr_line' id='line_1_4' title="bbox 2190 966 2211 1988; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 2190 966 2211 1988; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

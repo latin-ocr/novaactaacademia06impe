@@ -1,0 +1,39 @@
+⁸0 HISTO'IRE.
+
+Voici ce que la methode de d'ifferentiation & d'inte-
+gratim, dont il est question dans lc titre, a de particulier‚
+ὅ( ce qui a determine l⁷auteur, d’en faire le sujet de ce me-
+moire. Il donne d’abord une demonstration rigoureuse des
+operations que les correffions mentionnees exigent, & ensuite
+il fait voir que ces operations ne sont pas restreintes unique·
+ment aux se‘ries des puiffances des nombres naturels‚ mais
+qu'on peut les employer dans la sommation de tontes sortes
+de progreffions. Ainfi par exemple fi la somme d’une serie
+dont le terme general est X (fone'tion de l‘indice du dernier '
+terme x), est connue, l'Auteur fait voir qu’on peut trouver,>
+pqr un plocede semblable, la somme dune serie dont le terme
+general estfi- ,ἃ la somme dune autre ierie dont le terme
+
+general est sX ὃ x.
+
+ΙΙ.
+
+Methodus oeneialis inuestigandi· radice5 omnium aequa-
+tionum pei approximationem
+
+Αιιόὶοτε L. Eulero, pag. 16.
+
+Qu'on se represente sous la forme ΖΞΟ, une equa-
+tion queIconqoe, de laquelle il sagiffe de determiner la ra-
+cine z. Si dans cette equation on met a la place de la ra-
+cine z une xaleur approchante de cette ‘'racinc‚ v, de laquel-
+le on suppose quelle rende Z: V: il est clair que fi v etoit
+la veritable racine de l'equation p1·0posee‚ il y auroit V:o;
+mais que, parceque v n'est qu’unc valeur approchante de la
+meino, V ne sera pas tout ἓι fait egal ἐι zero. Supposant
+donc sz‘, cette quantitc': y sera une fonstion connue de
+νο, qui devient egale ἰι zero, lorsque vzz3 & reciproque-
+ment, v sera une cert-aine fonction dey, qu ’on pourra indi-
+
+quer⁴
+

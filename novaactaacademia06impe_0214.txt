@@ -1,0 +1,48 @@
+Tab. ll.
+Fig. 2·
+
+ 
+
+ 
+
+-. (30) --
+
+Solutio Analytica
+problematis propositi.
+
+ᾗ. 7. Cum igitur haec quaestio circa superficiem su·
+per dato plano exstruendam versetur, referat tabula hoc ipsum
+planum‚ in quo pro lubitu statuantur bini axes fixi OA et
+ΟἜἾΊτῑει· se normales ‚ secundum quos in ipso plano consti-
+tuantur binae coordinatae OX:x OY:y‚ tertia autem, ex
+punc‘to Y ad ipsam superficiem perpendiculariter erecta, voce-
+
+· tur Y Z ῖς, quibus pofitis eiusmodi aequatio inter has ter-
+
+nas coordinatus x‚y et z indagari debet, vt omnes rectae
+ΖΝ, quae ad superficiem normaliter in fingulis punctis Z
+sunt ductae, fiant inter se aequ211e5‚ hoc est, quaeritur, qualis
+
+fundiio quantitas z binarum variabilium x et y esse debeat, vt
+ista conditio adimpleatur. ’
+
+ᾗ. 8. Quoniam igitur coordinatam z tanquam funestio-
+nem duarum reliquarum x ety {peciamus7 fi eam differentie-
+mus, sumendo tam x qnam y variabilem, huiusmodi formula
+exorietur: θεῖ Dx—4—(J by, ct nunc ratio binarum quanti-
+tatum p et q inuestigari debet, vt conditioni praescriptae satis-
+fiat. In genere quidem constat, has duas quantitates p et q
+tales sunCtiones ipsarum x ety esse debere , vt formula diffe-
+rentialis p Dx÷q ὃ] integrationem admittat, id quod eueniet,
+fi fuerit (Li—3) :(}{)‚ xbi formula (ff) nascitur ex diffe-
+renti-atione ipsius p ‚ st solay pro variabili accipiatur; fimili-
+que modo altera formula (ἐξ) nascitur ex differentiatione
+
+ipfius q, fi sola x variabilis statuatur.
+
+ᾖ. 9. Sit nunc N punc‘tum in nostro plano, in quod
+recta ΖΝ, quae ad superficiem in puncto Z cst normalis,
+incidit⁷ ita vt per conditionem praescriptam effe oporteat
+
+ZN
+

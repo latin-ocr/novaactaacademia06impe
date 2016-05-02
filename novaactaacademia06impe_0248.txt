@@ -1,0 +1,37 @@
+=(114)=
+
+SVMMATIO SERIEI
+
+1'²-—2'''-{- 3n-4n45n—6n47n—18n.÷ etc·
+
+Denotante n numerum quemcunque
+mtegrum.
+
+Audiore
+STEPHANO RUMQVSKY.
+
+Conuent. exhib. die 5 oaob. 1739.
+
+Institutionum Calculi Differentialis in Capite VII magnus Eu-
+
+lerus exhibet summas nostrae seriei pro variis valoribus ip·
+fius n, ast ex profundis demum considerationibus de surn-
+matione progreffionum per series infinitas summas eiusmodi
+serierum tanquam consectaria elicit. Quamobrem constitui hic
+exponere qua ratione methodo magis directa ad summam eius·
+modi serim-um pro variis valoribus ipsius n peruenire liceat.
+Initium faciam a casu fimpliciflimQac postmodum ad reliquos
+progrediar.
+
+Casus I. Sit n: 1 ‚ et series ‚ cuius sumyia quae-
+renda cst, habebitur
+
+1—-2-†-3—4—÷-5—6—†-7—— etc.
+Ponatur
+s:1—-2x-4-3xx—-4x3—4-5x⁴-6x⁵-÷-7x‘—- etc.
+
+ex qua proposita resultat, fi ponatur x: 1. Ducatur iam
+series ficta in Dx ‚ et prodibit
+
+sbx
+

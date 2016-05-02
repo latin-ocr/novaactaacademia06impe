@@ -1,0 +1,74 @@
+ 
+
+ 
+
+ 
+
+ 
+
+(ιο)
+
+Problema. Α
+§. 13. Si fuerit X sunc‘iio quaecunque ipsius x acque se-
+νὶεἱ, cuius terminus generalis ζ-Χ, exgsseme x indice termini ‘vlti-
+
+πή, cognita suerit summa :2X, inuenire summam seriei cuius
+terminus generalis :- ἐξ
+SolutiO.
+
+Ex cognito termino generali X olim ostendi terminum
+summatorIum ita exp-‚imi vt fit
+
+ΣΧ :sXDxffl X÷—2-.‘33— Β ἓΞ-ι- c ,ἓξ-εις.
+
+-3 dx ι.. 5002& 1...7 aa»
+
+ 
+
+ 
+
+vbi litterae A, B,- C, D, etc. denotant numeros vulgo Ber·
+noullianos dictos:
+
+{7{;{31357{3 2⁶1⁹07³2⁵5et<30
+Quod fi iam pro altera serie⁷ cuius ΐειηιὶιιιις generaJis Ριορο-
+nitur ἐξ, loco X scribamus ff, quia tum sX ὂ x abit in X et
+
+fingula differentialia ipfius X vno gradu euehuntur, prodibit
+istius seriei summa:
+
+ΣᾱΧ-Χ {43 314--1-‘391— n ξιζ-ιΞ-μᾷσψ ⁴³⁶¹—etc
+ἡ* ²¹5} Lamsff 1...5‹1x.⁴ 1---7' 0x⁶
+
+ 
+
+quae manifesto ex forma praecedente oritur, fi Xilla diffemmie-
+tur ac per &x diffidatur, ita vt fit 2³⁸- -- ‘³' . Verum cum
+
+dx dx
+natura omnium summationum postulet, vt euanescente terminorum
+
+ιιιιῐιιειο x, etiam ip‘iae fiant nihilo aequalm, istam aequationem ita
+referri conueniet: ΣΞΞΞθΣ Ἱῑ-ὶ-(Ῑ, quam scilicet constantem
+
+dx
+
+C ita accipi oportet, vt summa quaesita ΣΞΞΕ euanescat posito
+
+dx
+
+,wc-:07 quod plerumque commodiffime fiet, fi, quando diffe-
+rentiatio formulae ΣΧ terminos constantes praebet, ii omit·
+tantur.
+
+ 
+
+ 
+
+Corollarium
+
+ξ 14. Hinc igitur patet fignum summationis Σ si-
+
+mili modo ad fignum diffcxcntiationis ὒ refctri poste, quo fi-
+gnum
+
